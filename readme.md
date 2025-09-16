@@ -7,7 +7,7 @@
 
 Pelican Panel is an open-source, web-based application designed for easy management of game servers.
 It offers a user-friendly interface for deploying, configuring, and managing servers, with features like real-time resource monitoring, Docker container isolation, and extensive customization options.
-Ideal for both individual gamers and hosting companies, it simplifies server administration without requiring deep technical knowledge.
+Ideal for both individual gamers and hosting companies, it simplifies server administration without requiring deep technical knowledge. This fork add support for my custom rust programm called power_manager to start and stop servers completly.
 
 Fly High, Game On: Pelican's pledge for unrivaled game servers.
 
